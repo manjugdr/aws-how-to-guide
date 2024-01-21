@@ -1,0 +1,13 @@
+Data base name devdatabase
+password Kmp12345
+
+steps-1  vpc
+steps-2  security
+steps-3  database-mysql
+steps-4 secrite key
+steps-5 role and permissions
+steps-6 Elastic Beanstalk application
+
+DB_ENDPOINT
+DB_NAME: devdatabase
+SECRET_NAME
